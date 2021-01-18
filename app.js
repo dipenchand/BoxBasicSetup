@@ -1,9 +1,9 @@
 const boxSDK = require('box-node-sdk')
 
-const clientID = 'arwuogzgdigt1v38rlvxmir1rlcchs5y'
-const clientSecret = 'fFiY4jt7JV810CJH3zbEmGO3VgxhTfE1'
-const devToken = '3w9TcEK4Q7CvhiNZisSDdLhXAamGMHW7'
-const folderId = '127682215474'
+const clientID = ''
+const clientSecret = ''
+const devToken = ''
+const folderId = ''
 
 
 const sdk = new boxSDK({
